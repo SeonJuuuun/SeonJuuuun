@@ -6,6 +6,7 @@
   
   <img alt="Java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img alt="JPA" src ="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/)
   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="Redis" src ="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
