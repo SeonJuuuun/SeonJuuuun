@@ -9,7 +9,6 @@
   <img alt="JPA" src ="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/)
   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="Redis" src ="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="54" height="54" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="54" height="54" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="54" height="54" /></div>
 
   
